@@ -1,0 +1,16 @@
+ 1 - #FFFF00 - YELLOW		(  0% Blue, 100% Green, 100% Red)
+ 2 - #AAFF00 - LightOlive 	(  0% Blue, 100% Green,  66% Red)
+ 3 - #55FF00 - Chlorophyll	(  0% Blue, 100% Green,  33% Red)
+ 4 - #00D900 - GREEN 		(  0% Blue,  85% Green,   0% Red)
+ 5 - #00FFAA - SandAqua	 	( 66% Blue, 100% Green,   0% Red)
+ 6 - #55AAAA - Turqoise		( 66% Blue,  66% Green,  33% Red)
+ 7 - #00FFFF - CYAN		(100% Blue, 100% Green,   0% Red)
+ 8 - #00CCFF - psicina 		(100% Blue,  66% Green,   0% Red)
+ 9 - #0055FF - Navy/Neon	(100% Blue,  33% Green,   0% Red)
+10 - #0000FF - BLUE		(100% Blue,   0% Green,   0% Red)
+11 - #7F00FF - NeonPurple	(100% Blue,   0% Green,  50% Red) -> 2048
+12 - #FF5500 - WillPowerOrange	(  0% Blue,  33% Green, 100% Red) -> 4096
+13 - #FF00FF - MAGENTA 		(100% Blue,   0% Green, 100% Red) -> 8196
+14 - #FF00FF - RED 		(  0% Blue,   0% Green,  90% Red) -> 16k
+15 - #A8A8A8 - GRAY 		( 66% Blue,  66% Green,  66% Red) -> 32k
+16 - #FF00FF - WHITE 		(100% Blue, 100% Green, 100% Red) -> 65k
